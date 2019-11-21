@@ -9,3 +9,4 @@ Country | No. of Campaigns | Top Three | Worst Three
 --- | --- | --- | ---
 US | 3038 | Music (77%), Film and Video (62%), and Theater (58%). | Journalism (0%), Food (20%), and Games (35%).
 GB | 604 | Music (74%), Theater (72%), and Games (48%). | Food (0%), Publishing (35%), and Film and Video (40%).
+CA | 146 | Music (83%), Theater (64%), and Photography (46%). | Food (0%), Technology (26%), and Publishing (33%).
