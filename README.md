@@ -20,3 +20,6 @@ Okay, great. You’re all set to go. Now, when should you start this Kickstarter
 In summary (tldr), the three conclusions I draw from three plots produced are: (1.) Music Category has the greatest rates of success, (2.) Rock is the most popular/successful genre under the Music category, and (3.) the months between January and May have the greatest number of successful Kickstarter campaigns.
 
 ### What are some limitations of this dataset?
+
+List of Limitations:
+   - The background portion of this homework states more than 300,000 projects have been launched on Kickstarter but we only analyze roughly 4,000 projects. We are only analyzing about 1% percent of the total projects launched.
