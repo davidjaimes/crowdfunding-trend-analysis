@@ -26,3 +26,8 @@ List of Limitations:
    - The data we used does not take into account whether each project was Staff Picked and/or Spotlighted. Projects may be more successful if they are labeled as a Favorite by Kickstarter.
    - Other markers not listed in our data such as:
       - Video showcasing project.
+      - Available reward by making a pledge.
+      - Estimated delivery date.
+      - Updates on projects between campaigner and their pledgers.
+
+### What are some other possible tables and/or graphs that we could create?
