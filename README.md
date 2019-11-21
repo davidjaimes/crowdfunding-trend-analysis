@@ -17,4 +17,6 @@ Let us continue down this road of analysis and say you decide to start a campaig
 
 Okay, great. You’re all set to go. Now, when should you start this Kickstarter campaign? Using our third plot and filtering by the Music category we can see a time series curve for the for the months out of the year. Diving a little more reveals a general trend for 2012 and 2015—the years with the most numbers of campaigns in the Music category. This trend has a negative, linear slope that starts in January and ends in December. This trend, more or less, remains the same when we filter by all years. This suggests it is better to start a Kickstarter campaign early in the year rather than later.
 
-### 
+In summary (tldr), the three conclusions I draw from three plots produced are: (1.) Music Category has the greatest rates of success, (2.) Rock is the most popular/successful genre under the Music category, and (3.) the months between January and May have the greatest number of successful Kickstarter campaigns.
+
+### What are some limitations of this dataset?
