@@ -23,3 +23,6 @@ In summary (tldr), the three conclusions I draw from three plots produced are: (
 
 List of Limitations:
    - The background portion of this homework states more than 300,000 projects have been launched on Kickstarter but we only analyze roughly 4,000 projects. We are only analyzing about 1% percent of the total projects launched.
+   - The data we used does not take into account whether each project was Staff Picked and/or Spotlighted. Projects may be more successful if they are labeled as a Favorite by Kickstarter.
+   - Other markers not listed in our data such as:
+      - Video showcasing project.
