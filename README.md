@@ -3,6 +3,8 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 ### Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
+![figure1](images/parent-category.png)
+
 From the first plot, based on Parent Category and including all Countries, we can clearly see the Top Three Categories with the highest rates of success as a percentage are Music (77%), Film & Video (58%), and Theater (60%). On contrast, the Worst Three Categories belong to Journalism (0%), Food (17%), and Publishing (34%). Digging a little deeper and using the same analysis, if we filter by Country and pick out the Top Three with the highest number of campaigns, we can produce the following table:
 
 Country | No. of Campaigns | Top Three | Worst Three
