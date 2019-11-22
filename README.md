@@ -42,3 +42,5 @@ List of possible table and/or graphs:
    - Compare the average goal amount between successful and failed projects filtered by Categories. Important to get a sense of much money should be requested.
    - Compare the average donation per backer between successful and failed projects. Some projects may have many backers and others might have few backers; but based on Category, some projects may raise more per backer.
    - Success rate vs Failure rate for each Category and Sub-Category. Similar to graph 1 but turn number of successful and failed to percentages.
+
+![figure4](images/goal-bins.png)
